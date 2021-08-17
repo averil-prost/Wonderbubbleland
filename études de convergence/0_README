@@ -1,0 +1,8 @@
+La convention de nommage est 
+<échelle de la microstructure, en µm>
+<variance de kappa, en %>
+<type de bulles : ef/éléments finis, spec/spectrales>
+<schéma : IMEX/LIMEX/LOIMEX>
+<information : CFL, norme L2, norme H1 ou qualité de la décomposition de u1>
+
+Bonne recherche à vous.
